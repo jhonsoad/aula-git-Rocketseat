@@ -4,3 +4,4 @@
 "git log"  // visualiza os pontos na linha do tempo / commit
 "git status" // informa o estado das alterações do nosso projeto
 "git show" // apresenta determibnado ponto na hitória
+end
