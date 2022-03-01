@@ -4,4 +4,9 @@
 "git log"  // visualiza os pontos na linha do tempo / commit
 "git status" // informa o estado das alterações do nosso projeto
 "git show" // apresenta determibnado ponto na hitória
-end
+"git branch" // gerenciar novas linhas do tempo
+"git checkout" // manipula as linhas do tempo
+"git merge" // unir linhas do tempo
+"git push" // envia alterações locais para o repositório remoto
+"git clone" // clonar um projeto / repositótrio
+"git pull" // puxar do repositório remoto
